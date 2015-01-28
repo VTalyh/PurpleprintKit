@@ -1,0 +1,15 @@
+# Blender v2.73 (sub 0) OBJ File: 'PlaneShapes.blend'
+# www.blender.org
+mtllib TrianglePlane.mtl
+o Cylinder.010_Cylinder.014
+v 0.000000 -100.000000 0.000000
+v -86.602539 50.000008 0.000000
+v 86.602547 49.999992 0.000000
+vt 0.865753 0.999628
+vt 0.000372 0.500000
+vt 0.865753 0.000372
+vn 0.000000 0.000000 1.000000
+g Cylinder.010_Cylinder.014_None
+usemtl None
+s off
+f 1/1/1 3/2/1 2/3/1
