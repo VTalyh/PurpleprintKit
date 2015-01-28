@@ -8,7 +8,7 @@ With support for Unreal Engine 4 & Urho3D engine, but be free to use the content
 
 ## Information:
 Project Name: Purpleprint Kit  
-Current Version: 0.8.1  
+Current Version: 0.9.5  
 Author: David Palacios (Hevedy) <https://github.com/Hevedy>  
 Trello: [Link][Trello]  
 Work fine in Unreal Engine 4.6.1 & Urho3D 1.32.  
@@ -80,8 +80,8 @@ Donations are appreciated thanks.
 By David Palacios (Hevedy) <https://github.com/Hevedy>.
 
 
-[Screenshot01]: /Screenshots/2DTexturesMap.png "Demo Materials Level in Unreal Engine 4"
-[Screenshot02]: /Screenshots/3DModelsMap.png "Demo 3D Models Level in Unreal Engine 4"
+[Screenshot01]: /Screenshots/PurpleprintKitMaterials.png "Demo Materials Level in Unreal Engine 4"
+[Screenshot02]: /Screenshots/PurpleprintKit3DModels.png "Demo 3D Models Level in Unreal Engine 4"
 [Screenshot03]: /Screenshots/LightMap.png "Demo Light in Unreal Engine 4 with the Purpleprint Kit"
 
 [HevedyTwitter]: https://twitter.com/Hevedy
