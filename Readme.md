@@ -84,7 +84,7 @@ By David Palacios (Hevedy) <https://github.com/Hevedy>.
 [Screenshot01]: /Screenshots/PurpleprintKitMaterials.png "Demo Materials Level in Unreal Engine 4"
 [Screenshot02]: /Screenshots/PurpleprintKit3DModels.png "Demo 3D Models Level in Unreal Engine 4"
 [Screenshot03]: /Screenshots/PurpleprintScenesDemo.png "Some demo scenes in Unreal Engine 4 with the Purpleprint Kit"
-[Screenshot03]: /Screenshots/LightMap.png "Demo Light in Unreal Engine 4 with the Purpleprint Kit"
+[Screenshot04]: /Screenshots/LightMap.png "Demo Light in Unreal Engine 4 with the Purpleprint Kit"
 
 [HevedyTwitter]: https://twitter.com/Hevedy
 [HevedyGithub]: https://github.com/Hevedy
