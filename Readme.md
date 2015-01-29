@@ -1,7 +1,7 @@
 # Purpleprint Kit
 
 ## Definition:
-Is a supply kit with materials, textures, 3d models, 2d models & example content/levels to test things with the engine/game, desing levels, learn to use the engines and more.  
+Is a supply kit with materials, textures, 3D models, 2D models & example content/levels to test things with the engine/game, desing levels, learn to use the engines and more.  
 With support for Unreal Engine 4 & Urho3D engine, but be free to use the content with other game engines or projects as long you give the credit to the original author.  
 
 
