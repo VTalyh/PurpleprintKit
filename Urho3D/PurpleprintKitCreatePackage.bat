@@ -59,11 +59,11 @@ AssetImporter.exe model ../../Content/3D/Geometry/Simple/Wireframe/SphereCuboidW
 AssetImporter.exe model ../../Content/3D/Geometry/Simple/Wireframe/HexagonWireframe.obj Data/PurpleprintKit/Models/Geometry/Simple/Wireframe/HexagonWireframe.mdl -b -na -nm -nt -nc -ns
 
 :: Tool 3D Models
-AssetImporter.exe model ../../Content/3D/Tools/References/Lightball.obj Data/PurpleprintKit/Models/Tools/References/Lightball.mdl -b -na -nm -nt -nc -ns
-AssetImporter.exe model ../../Content/3D/Tools/References/MaterialCube.obj Data/PurpleprintKit/Models/Tools/References/MaterialCube.mdl -b -na -nm -nt -nc -ns
-AssetImporter.exe model ../../Content/3D/Tools/References/MaterialExhibitor.obj Data/PurpleprintKit/Models/Tools/References/MaterialExhibitor.mdl -b -na -nm -nt -nc -ns
-AssetImporter.exe model ../../Content/3D/Tools/References/MaterialFacesCube.obj Data/PurpleprintKit/Models/Tools/References/MaterialFacesCube.mdl -b -na -nm -nt -nc -ns
-AssetImporter.exe model ../../Content/3D/Tools/References/MaterialFacesSphereCuboid.obj Data/PurpleprintKit/Models/Tools/References/MaterialFacesSphereCuboid.mdl -b -na -nm -nt -nc -ns
+AssetImporter.exe model ../../Content/3D/Tools/Lightball.obj Data/PurpleprintKit/Models/Tools/Lightball.mdl -b -na -nm -nt -nc -ns
+AssetImporter.exe model ../../Content/3D/Tools/MaterialCube.obj Data/PurpleprintKit/Models/Tools/MaterialCube.mdl -b -na -nm -nt -nc -ns
+AssetImporter.exe model ../../Content/3D/Tools/MaterialExhibitor.obj Data/PurpleprintKit/Models/Tools/MaterialExhibitor.mdl -b -na -nm -nt -nc -ns
+AssetImporter.exe model ../../Content/3D/Tools/MaterialFacesCube.obj Data/PurpleprintKit/Models/Tools/MaterialFacesCube.mdl -b -na -nm -nt -nc -ns
+AssetImporter.exe model ../../Content/3D/Tools/MaterialFacesSphereCuboid.obj Data/PurpleprintKit/Models/Tools/MaterialFacesSphereCuboid.mdl -b -na -nm -nt -nc -ns
 
 AssetImporter.exe model ../../Content/3D/Tools/References/Cube_50x50.obj Data/PurpleprintKit/Models/Tools/References/Cube_50x50.mdl -b -na -nm -nt -nc -ns
 AssetImporter.exe model ../../Content/3D/Tools/References/Cube_50x100.obj Data/PurpleprintKit/Models/Tools/References/Cube_50x100.mdl -b -na -nm -nt -nc -ns
